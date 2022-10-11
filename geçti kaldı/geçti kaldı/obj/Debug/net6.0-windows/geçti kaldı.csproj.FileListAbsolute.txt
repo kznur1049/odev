@@ -1,0 +1,17 @@
+C:\Users\Kezban nur\Desktop\görsel programlama\geçti kaldı\geçti kaldı\bin\Debug\net6.0-windows\geçti kaldı.exe
+C:\Users\Kezban nur\Desktop\görsel programlama\geçti kaldı\geçti kaldı\bin\Debug\net6.0-windows\geçti kaldı.deps.json
+C:\Users\Kezban nur\Desktop\görsel programlama\geçti kaldı\geçti kaldı\bin\Debug\net6.0-windows\geçti kaldı.runtimeconfig.json
+C:\Users\Kezban nur\Desktop\görsel programlama\geçti kaldı\geçti kaldı\bin\Debug\net6.0-windows\geçti kaldı.dll
+C:\Users\Kezban nur\Desktop\görsel programlama\geçti kaldı\geçti kaldı\bin\Debug\net6.0-windows\geçti kaldı.pdb
+C:\Users\Kezban nur\Desktop\görsel programlama\geçti kaldı\geçti kaldı\obj\Debug\net6.0-windows\geçti kaldı.csproj.AssemblyReference.cache
+C:\Users\Kezban nur\Desktop\görsel programlama\geçti kaldı\geçti kaldı\obj\Debug\net6.0-windows\geçti_kaldı.Form1.resources
+C:\Users\Kezban nur\Desktop\görsel programlama\geçti kaldı\geçti kaldı\obj\Debug\net6.0-windows\geçti kaldı.csproj.GenerateResource.cache
+C:\Users\Kezban nur\Desktop\görsel programlama\geçti kaldı\geçti kaldı\obj\Debug\net6.0-windows\geçti kaldı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kezban nur\Desktop\görsel programlama\geçti kaldı\geçti kaldı\obj\Debug\net6.0-windows\geçti kaldı.AssemblyInfoInputs.cache
+C:\Users\Kezban nur\Desktop\görsel programlama\geçti kaldı\geçti kaldı\obj\Debug\net6.0-windows\geçti kaldı.AssemblyInfo.cs
+C:\Users\Kezban nur\Desktop\görsel programlama\geçti kaldı\geçti kaldı\obj\Debug\net6.0-windows\geçti kaldı.csproj.CoreCompileInputs.cache
+C:\Users\Kezban nur\Desktop\görsel programlama\geçti kaldı\geçti kaldı\obj\Debug\net6.0-windows\geçti kaldı.dll
+C:\Users\Kezban nur\Desktop\görsel programlama\geçti kaldı\geçti kaldı\obj\Debug\net6.0-windows\refint\geçti kaldı.dll
+C:\Users\Kezban nur\Desktop\görsel programlama\geçti kaldı\geçti kaldı\obj\Debug\net6.0-windows\geçti kaldı.pdb
+C:\Users\Kezban nur\Desktop\görsel programlama\geçti kaldı\geçti kaldı\obj\Debug\net6.0-windows\geçti kaldı.genruntimeconfig.cache
+C:\Users\Kezban nur\Desktop\görsel programlama\geçti kaldı\geçti kaldı\obj\Debug\net6.0-windows\ref\geçti kaldı.dll
